@@ -35,7 +35,7 @@ Dashboard: <a href="https://app.powerbi.com/groups/me/reports/936defb0-d087-4705
 
 ## Dashboard (PowerBI services):
 
-![Image](https://github.com/user-attachments/assets/91503e25-a54f-4f07-a92c-0ffceabf28c2)
+![Image](https://github.com/user-attachments/assets/674ca661-e0ca-43aa-8f37-cfad45e33c6e)
 
 ## 📌 How to Use the Dashboard
 1. Open the Power BI `.pbix` file.
