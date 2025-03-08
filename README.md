@@ -33,6 +33,10 @@ Dashboard: <a href="https://app.powerbi.com/groups/me/reports/936defb0-d087-4705
 - **Excel/CSV**: Data source for Power BI.
 - **DAX (Data Analysis Expressions)**: Used for calculated columns and measures.
 
+## Dashboard (PowerBI services):
+
+![Image](https://github.com/user-attachments/assets/91503e25-a54f-4f07-a92c-0ffceabf28c2)
+
 ## 📌 How to Use the Dashboard
 1. Open the Power BI `.pbix` file.
 2. Interact with filters and slicers to explore trends.
