@@ -1,6 +1,6 @@
 # PowerBI_Laptop-Prices-Analysis
 
-## Overview
+## 📌 Overview
 This project involves analyzing a dataset of laptop prices using Power BI. The goal is to derive insights into pricing trends, specifications, and brand comparisons to help users make informed purchasing decisions.
 
 Dataset: <a href="https://www.kaggle.com/datasets/asinow/laptop-price-dataset">Dataset</a>
